@@ -11,7 +11,6 @@ Sou Desenvolvedor Backend Java com **mais de 5 anos de experiência** no mercado
 - 💼 Atualmente focado no ecossistema **Java** e soluções de E-commerce.
 - 🌱 Constantemente aprendendo novas tecnologias para aprimorar minhas entregas.
 
----
 
 ## 🛠️ Minha Stack Principal
 
@@ -19,7 +18,6 @@ Sou Desenvolvedor Backend Java com **mais de 5 anos de experiência** no mercado
 ![Spring Badge](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![SAP Hybris Badge](https://img.shields.io/badge/SAP%20Hybris-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 
----
 
 ## 🧪 Tecnologias e Ferramentas
 
