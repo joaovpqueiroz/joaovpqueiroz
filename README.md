@@ -45,12 +45,3 @@ Sou Desenvolvedor Backend Java com **mais de 5 anos de experiência** no mercado
 ![Maven Badge](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
 ![Intellij Badge](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovpqueiroz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovpqueiroz&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
