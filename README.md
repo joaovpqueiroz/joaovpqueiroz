@@ -45,3 +45,21 @@ Sou Desenvolvedor Backend Java com **mais de 5 anos de experiência** no mercado
 ![Maven Badge](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
 ![Intellij Badge](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
+---
+
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaovpqueiroz/joaovpqueiroz/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaovpqueiroz/joaovpqueiroz/output/github-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições de João Queiroz"
+    src="https://raw.githubusercontent.com/joaovpqueiroz/joaovpqueiroz/output/github-snake.svg"
+  />
+</picture>
