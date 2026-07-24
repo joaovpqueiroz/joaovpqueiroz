@@ -22,9 +22,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg?color_dots=#f3f0ff,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
+            dist/github-snake-dark.svg?color_dots=#16161d,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
+            dist/ocean.gif?color_snake=orange&color_dots=#16161d,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
